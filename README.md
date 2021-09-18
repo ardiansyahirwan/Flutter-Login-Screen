@@ -1,6 +1,6 @@
 # Flutter Login Page
 
-Flutter Login Page following tutorial from youtube erico darmawan handoyo
+Flutter Login Page following tutorial from youtube erico darmawan handoyo, dengan beberapa sintaks yang berbeda
 
 ## Getting Started
 
