@@ -1,6 +1,6 @@
-# flutter_1
+# Flutter Login Page
 
-A new Flutter project.
+Flutter Login Page following tutorial from youtube erico darmawan handoyo
 
 ## Getting Started
 
